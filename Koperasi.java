@@ -1,9 +1,9 @@
 
 class koperasi {
     
-    String idAnggota;
-    String namaAnggota;
-    String nomorRekening;
+    private String idAnggota;
+    private String namaAnggota;
+    private String nomorRekening;
     
     int pinjam;
     double saldo,pajak;
