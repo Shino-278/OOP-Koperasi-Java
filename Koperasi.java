@@ -43,7 +43,7 @@ class koperasi {
     }
 }
 
-public class Koperasi {
+public class Main {
     public static void main ( String [] args){
         koperasi anggota = new koperasi ("ID-01","Muhammad Bagir","RK-007");
         koperasi ambil = new koperasi (100000,50000,0.10);
